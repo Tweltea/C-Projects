@@ -1,6 +1,5 @@
 /*********************************************************************
 ** Program Filename: catalog.cpp
-** Author: Bryce Khut
 ** Date: 02/12/2024
 ** Description: functions .cpp file
 ** Input:
